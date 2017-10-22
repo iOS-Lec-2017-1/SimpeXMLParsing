@@ -1,5 +1,7 @@
 # SimpeXMLParsing
 
+<pre><code></code></pre>
+
 <root>
 	<elements>
 		<item>
@@ -19,5 +21,5 @@
 		</item>
 	</elements>
 </root>
-
+</code></pre>
 
