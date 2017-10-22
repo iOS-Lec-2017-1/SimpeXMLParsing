@@ -1,6 +1,6 @@
 # SimpeXMLParsing
 
-<pre><code>
+<pre>
 
 <root>
 	<elements>
@@ -21,5 +21,5 @@
 		</item>
 	</elements>
 </root>
-</code></pre>
+</pre>
 
