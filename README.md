@@ -1,6 +1,6 @@
 # SimpeXMLParsing
 
-<pre><code></code></pre>
+<pre><code>
 
 <root>
 	<elements>
