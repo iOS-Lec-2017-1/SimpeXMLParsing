@@ -18,7 +18,23 @@ class ViewController: UIViewController, XMLParserDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        //let strURL = "http://api.androidhive.info/pizza/?format=xml"
+        
+//         let strURL = "http://api.androidhive.info/pizza/?format=xml"
+//         if NSURL(string: strURL) != nil {
+//            if let parser = NSXMLParser(contentsOfURL: NSURL(string: strURL)!) {
+//                parser.delegate = self
+//         
+//                if parser.parse() {
+//                    print("parsing success")
+//                    //print(items)
+//                } else {
+//                    print("parsing fail")
+//                }
+//         
+//            }
+//         }
+        
+        
         
         if let path = Bundle.main.url(forResource: "Fruit", withExtension: "xml") {
         
